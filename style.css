@@ -19,8 +19,7 @@ h2{
     width: 500px;
 }
 .pro{
-    position: relative;
-    left: 255px;
+   text-align: center;
 }
 .pron{
     color: white;
@@ -53,13 +52,8 @@ section{
     height: 35px;
 }
 .akcia{
-    position: relative;
-    left: 250px;
+    text-align: center;
 }
 .h2{
-    position: relative;
-    left: 250px;
-}
-    color: orange;
-    text-decoration: none;
+   text-align: center;
 }
